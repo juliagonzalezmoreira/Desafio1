@@ -1,2 +1,5 @@
 # Desafio1
-Desafio1 - site simples de uma universidade fictícia
+<ul>
+  <li>Site simples para uma universidade fictícia</li>
+  <li>Aula de Programação em Microinformática</li>
+</ul>
