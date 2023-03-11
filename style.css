@@ -1,0 +1,17 @@
+body{
+    background-image: url(imagens/fundo.png);
+}
+
+.logo{
+    
+}
+
+.capa{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h4 {
+    text-align: center;
+}
